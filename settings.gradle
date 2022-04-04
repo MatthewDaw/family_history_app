@@ -1,0 +1,4 @@
+rootProject.name='myGeoQuiz'
+include ':app'
+include ':familymapsharedmethods'
+include ':sharedCodeModule'

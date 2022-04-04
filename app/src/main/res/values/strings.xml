@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">myGeoQuiz</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Correct</string>
+    <string name="false_toast">False</string>
+
+    <string name="server_host_input"></string>
+    <string name="server_port_input"></string>
+    <string name="user_name_input"></string>
+    <string name="password_input"></string>
+    <string name="first_name_input"></string>
+    <string name="last_name_input"></string>
+    <string name="email_input"></string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
